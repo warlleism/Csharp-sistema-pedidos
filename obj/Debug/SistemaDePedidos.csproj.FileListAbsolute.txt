@@ -1,0 +1,22 @@
+C:\Users\pc\Desktop\2021\2 Periodo\Modulo 1\Programação Orientada a Objetos\SistemaDePedidos\bin\Debug\SistemaDePedidos.exe.config
+C:\Users\pc\Desktop\2021\2 Periodo\Modulo 1\Programação Orientada a Objetos\SistemaDePedidos\bin\Debug\SistemaDePedidos.exe
+C:\Users\pc\Desktop\2021\2 Periodo\Modulo 1\Programação Orientada a Objetos\SistemaDePedidos\bin\Debug\SistemaDePedidos.pdb
+C:\Users\pc\Desktop\2021\2 Periodo\Modulo 1\Programação Orientada a Objetos\SistemaDePedidos\obj\Debug\SistemaDePedidos.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\2021\2 Periodo\Modulo 1\Programação Orientada a Objetos\SistemaDePedidos\obj\Debug\SistemaDePedidos.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\2021\2 Periodo\Modulo 1\Programação Orientada a Objetos\SistemaDePedidos\obj\Debug\SistemaDePedidos.exe
+C:\Users\pc\Desktop\2021\2 Periodo\Modulo 1\Programação Orientada a Objetos\SistemaDePedidos\obj\Debug\SistemaDePedidos.pdb
+C:\Users\warll\Desktop\Conteúdo\2021\2 Periodo\Modulo 1\Programação Orientada a Objetos\SistemaDePedidos\bin\Debug\SistemaDePedidos.exe.config
+C:\Users\warll\Desktop\Conteúdo\2021\2 Periodo\Modulo 1\Programação Orientada a Objetos\SistemaDePedidos\bin\Debug\SistemaDePedidos.exe
+C:\Users\warll\Desktop\Conteúdo\2021\2 Periodo\Modulo 1\Programação Orientada a Objetos\SistemaDePedidos\bin\Debug\SistemaDePedidos.pdb
+C:\Users\warll\Desktop\Conteúdo\2021\2 Periodo\Modulo 1\Programação Orientada a Objetos\SistemaDePedidos\obj\Debug\SistemaDePedidos.csproj.AssemblyReference.cache
+C:\Users\warll\Desktop\Conteúdo\2021\2 Periodo\Modulo 1\Programação Orientada a Objetos\SistemaDePedidos\obj\Debug\SistemaDePedidos.csproj.CoreCompileInputs.cache
+C:\Users\warll\Desktop\Conteúdo\2021\2 Periodo\Modulo 1\Programação Orientada a Objetos\SistemaDePedidos\obj\Debug\SistemaDePedidos.exe
+C:\Users\warll\Desktop\Conteúdo\2021\2 Periodo\Modulo 1\Programação Orientada a Objetos\SistemaDePedidos\obj\Debug\SistemaDePedidos.pdb
+C:\Users\warll\OneDrive\Área de Trabalho\CSharp-main\SistemaDePedidos\bin\Debug\SistemaDePedidos.exe.config
+C:\Users\warll\OneDrive\Área de Trabalho\CSharp-main\SistemaDePedidos\bin\Debug\SistemaDePedidos.exe
+C:\Users\warll\OneDrive\Área de Trabalho\CSharp-main\SistemaDePedidos\bin\Debug\SistemaDePedidos.pdb
+C:\Users\warll\OneDrive\Área de Trabalho\CSharp-main\SistemaDePedidos\obj\Debug\SistemaDePedidos.csproj.AssemblyReference.cache
+C:\Users\warll\OneDrive\Área de Trabalho\CSharp-main\SistemaDePedidos\obj\Debug\SistemaDePedidos.csproj.SuggestedBindingRedirects.cache
+C:\Users\warll\OneDrive\Área de Trabalho\CSharp-main\SistemaDePedidos\obj\Debug\SistemaDePedidos.csproj.CoreCompileInputs.cache
+C:\Users\warll\OneDrive\Área de Trabalho\CSharp-main\SistemaDePedidos\obj\Debug\SistemaDePedidos.exe
+C:\Users\warll\OneDrive\Área de Trabalho\CSharp-main\SistemaDePedidos\obj\Debug\SistemaDePedidos.pdb

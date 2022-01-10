@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaDePedidos", "SistemaDePedidos.csproj", "{68FEC942-48C8-4581-B477-195758EC9409}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68FEC942-48C8-4581-B477-195758EC9409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68FEC942-48C8-4581-B477-195758EC9409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68FEC942-48C8-4581-B477-195758EC9409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68FEC942-48C8-4581-B477-195758EC9409}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {881950E8-F28D-4B4D-9435-495109FF0032}
+	EndGlobalSection
+EndGlobal
